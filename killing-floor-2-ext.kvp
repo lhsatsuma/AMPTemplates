@@ -43,6 +43,7 @@ App.ApplicationPort2=27015
 App.ApplicationPort3=0
 App.RemoteAdminPort=8080
 App.MaxUsers=6
+App.MutatorsExt=6
 App.UseRandomAdminPassword=False
 App.RemoteAdminPassword=Password123
 App.AdminMethod=STDIO
